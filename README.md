@@ -26,8 +26,10 @@ System Requirements
 
 Installation & Running
 1. Clone the repository:
+```
 git clone https://github.com/Bhawanajoshi25/Car-Park-System.git
 cd Car-Park-System
+```
 2. Open the project in BlueJ (or any Java IDE).
 3. Compile all .java files.
 4. Run the CarParkSystem class.
@@ -76,7 +78,9 @@ System highlights the slot and shows details.
 - Exit
 Click Exit Application to close the system.
 
-Project Structure
+## Project Structure
+
+```
 CarParkSystem/
  ├── src/
  │    ├── Car.java
@@ -85,3 +89,5 @@ CarParkSystem/
  │    └── ParkingSlot.java
  ├── README.md
  └── package.bluej   (optional, BlueJ config file)
+```
+
