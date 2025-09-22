@@ -82,11 +82,10 @@ Click Exit Application to close the system.
 
 ```
 CarParkSystem/
- ├── src/
- │    ├── Car.java
- │    ├── CarPark.java
- │    ├── CarParkSystem.java
- │    └── ParkingSlot.java
+ ├── Car.java
+ ├── CarPark.java
+ ├── CarParkSystem.java
+ ├── ParkingSlot.java
  ├── README.md
  └── package.bluej   (optional, BlueJ config file)
 ```
